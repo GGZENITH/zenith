@@ -1,1 +1,0 @@
-{"Setup": {"WINDOW_WIDTH": 300, "WINDOW_HEIGHT": 300, "MODEL_PATH": "models\\cs2.onnx"}, "Aim": {"MOVEMENT_AMP_X": 1.2, "MOVEMENT_AMP_Y": 1.0, "MOUSE_MOVEMENT_THRESHOLD": 0.5, "TOGGLE_AIM_KEY": "x"}, "Triggerbot": {"TB_THRESHOLD": 0.05, "TOGGLE_TB_KEY": "z", "TB_HEAD_OFFSET": 35.0}, "Debug": {}}

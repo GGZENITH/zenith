@@ -1,0 +1,1 @@
+{"Setup": {"WINDOW_WIDTH": 720, "WINDOW_HEIGHT": 600, "MODEL_PATH": "models\\humans.onnx"}, "Aim": {"MOVEMENT_AMP_X": 3.0, "MOVEMENT_AMP_Y": 3.0, "MOUSE_MOVEMENT_THRESHOLD": 0.0, "TOGGLE_AIM_KEY": "x"}, "Triggerbot": {"TB_THRESHOLD": 0.01, "TOGGLE_TB_KEY": "z", "TB_HEAD_OFFSET": 35.0}, "Debug": {}}
